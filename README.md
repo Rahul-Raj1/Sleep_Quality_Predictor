@@ -1,4 +1,4 @@
-Project Documentation: Sleep Quality Prediction using Machine Learning
+Project Documentation: Sleep Quality Prediction using Logistic Regression
 1. Introduction
 
 Sleep Quality Prediction is a machine learning classification system. It reads a CSV dataset of daily lifestyle habits (age, gender, screen time, caffeine intake and exercise hours), cleans the data, trains a Logistic Regression model, and predicts whether a person’s sleep quality is Good or Poor. A Streamlit application then shows the prediction as a sleep score and recommends personalised advice.
